@@ -25,7 +25,3 @@ The model here would be built under these assumptions.
 The data is recent and sourced from https://www.iposcoop.com/scoop-track-record-from-2000-to-present/. It is downloaded and saved into a folder. Note that it is not possible to read the data with 'Pandas' package, so the 'xlrd' package is used instead.
 
 
-## 1 The IPO Makert:
-
-Before getting starting or diving right into coding, it is important to learn or establish some ideas/knwoledge about the tpoic of interest, where in this case, it is the IPO market. 
-
