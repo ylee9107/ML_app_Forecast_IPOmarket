@@ -24,4 +24,8 @@ The model here would be built under these assumptions.
 
 The data is recent and sourced from https://www.iposcoop.com/scoop-track-record-from-2000-to-present/. It is downloaded and saved into a folder. Note that it is not possible to read the data with 'Pandas' package, so the 'xlrd' package is used instead.
 
+## Summary:
+
+From this project, I’ve learnt and developed a better understanding of the modelling process, beginning from data cleaning, feature engineering and to testing. I was able to split the data into training and testing sets, utilising the Logistic Regression model to fit the training set and subsequently test it on the testing data set. I was able to discover which features influences the model, by simply looking at the coefficients of the logistic regression function as well as using the Random Forest Classifier to find the true impact of a given feature. Further, I was able to discover some limitations about extracting useful features, such as historical data or the frequency of certain types of data/data points that may not be useful in modelling.
+
 
